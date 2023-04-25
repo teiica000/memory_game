@@ -1,5 +1,4 @@
 # memory_game
-Memory game in Unity. Implemented sound effects on card reveal, BG sound and flow trough multiple scenes.
 
 Igra memorije napravljena za prvu kontrolnu tačku predmeta PRRI. Igrа sadrži 3 scene- početna, game play i rezultn. 
 Na početnoj sceni se nalazi start button i čuje se muzika.
